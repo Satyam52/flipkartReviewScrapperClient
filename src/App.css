@@ -1,0 +1,10 @@
+@import "~antd/dist/antd.css";
+
+.input {
+  margin: 50px;
+}
+@media (max-width: 420px) {
+  .input {
+    margin: 5px;
+  }
+}
